@@ -165,8 +165,14 @@ class _HomeScreenState extends State<HomeScreen> {
                     ),
                   ),
                   onPressed: () => addTask(controller.text),
-                  child: const Text("✓", style: TextStyle(fontSize: 20)),
-                ),
+                  child: Text(
+                    "✓",
+                    style: TextStyle(
+                      fontSize: 20,
+                      color: Theme.of(context).colorScheme.onPrimary, // Адаптация цвета текста
+                    ),
+                  ),
+                )
               ],
             ),
           ),
