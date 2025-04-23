@@ -1,0 +1,442 @@
+[
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/animator_fragment_close_exit.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-fragment-1.7.1-14:/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xxxhdpi-v4_ic_call_answer_low.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xxxhdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xhdpi-v4_ic_call_answer.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xhdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xxhdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xxhdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/layout_notification_template_big_media.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-media-1.1.0-19:/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-ldpi-v4_ic_call_answer_low.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-ldpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-media-1.1.0-19:/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xxhdpi-v4_ic_call_decline_low.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xxhdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/layout_notification_template_media.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-media-1.1.0-19:/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-hdpi-v4_notification_oversize_large_icon_bg.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-hdpi-v4/notification_oversize_large_icon_bg.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xxxhdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xxxhdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-hdpi-v4_ic_call_answer.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-hdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-v21_notification_action_background.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/layout_ime_secondary_split_test_activity.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable_notification_tile_bg.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xxxhdpi-v4_ic_call_decline.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xxxhdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xhdpi-v4_ic_call_decline_low.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xhdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/layout_notification_media_action.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-media-1.1.0-19:/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-mdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-mdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-ldpi-v4_ic_call_answer_video.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-ldpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xxhdpi-v4_ic_call_decline.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xxhdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-v21_launch_background.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/animator_fragment_open_enter.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-fragment-1.7.1-14:/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-mdpi-v4_ic_call_answer_video.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-mdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-anydpi-v21_ic_call_answer_low.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-anydpi-v21/ic_call_answer_low.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-hdpi-v4_ic_call_answer_video.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-hdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xhdpi-v4_ic_call_answer_low.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xhdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-ldpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-ldpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/layout_notification_template_big_media_custom.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-media-1.1.0-19:/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-hdpi-v4_ic_call_decline_low.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-hdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-anydpi-v21_ic_call_answer_video_low.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-anydpi-v21/ic_call_answer_video_low.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable_notification_bg.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-hdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-hdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xhdpi-v4_ic_call_answer_video.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xhdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xxhdpi-v4_ic_call_answer_low.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xxhdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-mdpi-v4_ic_call_decline_low.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-mdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xhdpi-v4_ic_call_decline.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xhdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xhdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xhdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xxxhdpi-v4_ic_call_decline_low.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xxxhdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/animator_fragment_fade_exit.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-fragment-1.7.1-14:/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-anydpi-v21_ic_call_answer.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-anydpi-v21/ic_call_answer.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-hdpi-v4_ic_call_answer_low.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-hdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/layout_custom_dialog.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-hdpi-v4_ic_call_decline.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-hdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xxhdpi-v4_ic_call_answer_video.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xxhdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/layout_notification_template_lines_media.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-media-1.1.0-19:/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xxxhdpi-v4_ic_call_answer_video.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xxxhdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xxxhdpi-v4_ic_call_answer.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xxxhdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/animator_fragment_open_exit.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-fragment-1.7.1-14:/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-ldpi-v4_ic_call_decline_low.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-ldpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-mdpi-v4_ic_call_answer.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-mdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/animator_fragment_fade_enter.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-fragment-1.7.1-14:/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/layout_ime_base_split_test_activity.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/layout_notification_media_cancel_action.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-media-1.1.0-19:/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable_notification_bg_low.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-anydpi-v21_ic_call_answer_video.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-anydpi-v21/ic_call_answer_video.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/layout-v21_notification_action.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/animator_fragment_close_enter.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-fragment-1.7.1-14:/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-anydpi-v21_ic_call_decline.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-anydpi-v21/ic_call_decline.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/layout_notification_template_part_time.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/layout_notification_template_part_chronometer.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-ldpi-v4_ic_call_answer.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-ldpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-mdpi-v4_ic_call_decline.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-mdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/layout_notification_template_media_custom.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-media-1.1.0-19:/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-anydpi-v21_ic_call_decline_low.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-anydpi-v21/ic_call_decline_low.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-media-1.1.0-19:/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-xxhdpi-v4_ic_call_answer.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-xxhdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-ldpi-v4_ic_call_decline.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-ldpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable-mdpi-v4_ic_call_answer_low.png.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable-mdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/drawable_notification_icon_background.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-core-1.13.1-16:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/anim-v21_fragment_fast_out_extra_slow_in.xml.flat",
+        "source": "com.Rafadelya.todoolico.app-fragment-1.7.1-14:/anim-v21/fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "com.Rafadelya.todoolico.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.Rafadelya.todoolico.app-main-21:/mipmap-xxxhdpi/ic_launcher_background.png"
+    }
+]

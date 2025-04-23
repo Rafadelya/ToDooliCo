@@ -1,0 +1,4 @@
+#Wed Apr 23 14:19:44 YEKT 2025
+base.0=/Users/macboocheck/StudioProjects/ToDooliCo/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
